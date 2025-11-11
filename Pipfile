@@ -11,7 +11,7 @@ typing-extensions = "==4.8.0"
 tomli = "==2.2.1"  # Needed for black on Python < 3.11
 
 [packages]
-aiohttp = "==3.9.0"
+aiohttp = "==3.12.14"
 colorama = "==0.4.6"
 "discord.py" = {version = "==2.6.3", extras = ["speed"]}
 emoji = "==2.8.0"
