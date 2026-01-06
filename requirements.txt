@@ -1,7 +1,7 @@
 -i https://pypi.org/simple
 aiodns==3.5.0; python_version >= '3.9'
 aiohappyeyeballs==2.6.1; python_version >= '3.9'
-aiohttp==3.13.2; python_version >= '3.9'
+aiohttp==3.13.3; python_version >= '3.9'
 aiosignal==1.4.0; python_version >= '3.9'
 async-timeout==5.0.1; python_version < '3.11'
 attrs==25.4.0; python_version >= '3.9'
